@@ -1,0 +1,36 @@
+Read screen of pc and scrap the text in the display to a text variable. Then it checks if the texts of the screen has changed now. if text in screen is changed, the programme takes the text and append it to a text file. so if we need to scrap the screen's text and take some work done[ like grabbing all the phone numbers of the file with regular expression ] with it , we can use this applicatoin. [ example scenario,, you need to go to a website that has a lot of phone numbers, then you need to get all the numbers of that site and send whatsapp messages to all of them ]
+
+mulin python script ekak background run karawanne kohomada baluwa
+https://stackoverflow.com/questions/47606701/how-to-run-a-python-script-executable-in-the-background
+meke tyenwa 
+Windows + r     gahala ena run eke 
+pythonw C:\Users\yourUser\Desktop\hidden.py
+kiyala file eka run karanwanna tyenne 
+
+ita psse eeka delete karanna thama ilaga wAde . 
+
+pyscreeze.PyScreezeException: The Pillow package is required to use this function.       kiyala error ekk awoth 
+pip install Pillow --upgrade        kiyala gahann
+
+ raise TesseractError(proc.returncode, get_errors(error_string))
+pytesseract.pytesseract.TesseractError: (2, 'Usage: pytesseract [-l lang] input_file')
+kiyala error ekak awoth
+https://github.com/UB-Mannheim/tesseract/wiki
+link eke 
+The latest installers can be downloaded here:
+tesseract-ocr-w32-setup-v5.2.0.20220712.exe (32 bit) and
+tesseract-ocr-w64-setup-v5.2.0.20220712.exe (64 bit) resp.
+There are also older versions available.
+wage thank tyenwa 
+eken download karaganna 
+eka install karala eken path eka ganna
+C:\Program Files\Tesseract-OCR\tesseract.exe        wage
+eka danna adaala thanata
+[ https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error-tesseract-is-not-installed-or-its-not-i      for solution check this out ]
+
+
+
+
+
+
+antimata exe ekak hadanna balanna python file eken
