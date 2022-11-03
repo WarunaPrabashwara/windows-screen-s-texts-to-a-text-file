@@ -28,7 +28,7 @@ C:\Program Files\Tesseract-OCR\tesseract.exe        wage
 eka danna adaala thanata
 [ https://stackoverflow.com/questions/50951955/pytesseract-tesseractnotfound-error-tesseract-is-not-installed-or-its-not-i      for solution check this out ]
 
-
+Text file eka aran antimata eeke numbers /emails ehema regex ekkin aragena eewa unique kalaama harine. Duplicate tyena numbers nathi wepaa yanwa. Simple solution
 
 
 
