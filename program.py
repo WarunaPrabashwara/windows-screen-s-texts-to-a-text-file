@@ -59,4 +59,4 @@ while True:
      #       f.write( str( frame2 ) +  "\n\n\n\n" )                        
     cv2.waitKey(1000)
 
-
+Mee code eka screen eka thathparen thathpare text file ekaka store krnwa. But kalin ekama da aaya store krnne kiyala balnne nh. So oyta oninm kalin eka aaya recode wenne nathi wenna hadanna. Ehema krnn pluwn. Temp variable ekkata text eka daala, eekayi aluth text ekai asamananm witrak text eka aluth text eken update wena gaman wAdeth wenna kiyala hadanna pluwn. 
