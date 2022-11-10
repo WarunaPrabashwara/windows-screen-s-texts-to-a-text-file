@@ -1,0 +1,69 @@
+mehemai 
+meke di android app eka hadanakota 
+
+no activity newe 
+
+basic activity eka thoranna 
+
+nattham
+MainActivity.java
+
+kiyala file ekak hadenne nah
+
+Implements method in Adapter in RecyclerView (androidx.recyclerview.widget
+uda errror eka awoth eeka google serach karanna 
+stackoverlw eke uttara hibba
+
+https://stackoverflow.com/questions/40584424/simple-android-recyclerview-example
+
+meka hariyanne naha
+
+wena ekak balamu
+
+aluth eke mama hadanwa andoid app ekak 
+https://codingwithsaud.medium.com/android-the-perfect-and-easy-way-to-make-screen-recorder-fcda630048d7 
+balaana karanne 
+eka java walin damu
+basic activity eka daamu
+
+gradle ekata ara kAlla daaddi module level ekata daanna 
+ekama namin gradle dekk thiyenwa 
+hodata balannaa
+
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }	    
+    }
+}
+
+me widihe ekak thibbe nah 
+ 
+  e nisa java nathuwa kotlin ekk dala balamuda
+ 
+ 
+ hammatasiri 
+ meke tyenne mainactivity.java newe .kt kiyala ekk 
+ 
+ anith eka meketh 
+  
+allprojects {
+    repositories {
+        ...
+        maven { url 'https://jitpack.io' }	    
+    }
+}
+
+
+kiyana eka naha 
+
+https://itsourcecode.com/android-projects/best-screen-record-app-android-with-source-code/
+site eke 
+
+Steps on how to run the Best Screen Record App Android with Source Code
+kiyana eke source code eka aran run karamu
+
+
+
+mekata wada lesi wage kelinma screen eka recode karala ee video eka pc ekata dala eeka run karala python programme eken scrap karaganna eka
+
