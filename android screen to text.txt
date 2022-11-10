@@ -67,3 +67,7 @@ kiyana eke source code eka aran run karamu
 
 mekata wada lesi wage kelinma screen eka recode karala ee video eka pc ekata dala eeka run karala python programme eken scrap karaganna eka
 
+
+screen recoder eken recode karana images text karanna pluwan me widihata 
+https://stackoverflow.com/questions/1062578/what-kind-of-ocr-java-library-should-i-use-in-android
+https://stackoverflow.com/questions/1106202/is-there-any-free-ocr-library-for-android
